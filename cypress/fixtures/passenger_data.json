@@ -5,8 +5,8 @@
   "SOURCE_STATION": "Subedarganj",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "Haridwar",
-  "TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "TATKAL": true,
+  "UPI_ID_CONFIG": "poonam21sep1@ybl",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Aditya shukla",
