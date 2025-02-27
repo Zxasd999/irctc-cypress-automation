@@ -5,7 +5,7 @@
   "SOURCE_STATION": "Subedarganj",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "Haridwar",
-  "TATKAL": true,
+  "TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
